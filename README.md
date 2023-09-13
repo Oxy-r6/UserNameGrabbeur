@@ -1,0 +1,2 @@
+# UserNameGrabbeur
+The UserName Grabber is a code which, if executed, will be sent to your webhook this will give you the first name of the person who executed the program
